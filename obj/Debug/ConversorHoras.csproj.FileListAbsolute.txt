@@ -1,0 +1,10 @@
+E:\workspace\ConversorHoras\bin\Debug\ConversorHoras.exe.config
+E:\workspace\ConversorHoras\bin\Debug\ConversorHoras.exe
+E:\workspace\ConversorHoras\bin\Debug\ConversorHoras.pdb
+E:\workspace\ConversorHoras\obj\Debug\ConversorHoras.csproj.AssemblyReference.cache
+E:\workspace\ConversorHoras\obj\Debug\ConversorHoras.Form1.resources
+E:\workspace\ConversorHoras\obj\Debug\ConversorHoras.Properties.Resources.resources
+E:\workspace\ConversorHoras\obj\Debug\ConversorHoras.csproj.GenerateResource.cache
+E:\workspace\ConversorHoras\obj\Debug\ConversorHoras.csproj.CoreCompileInputs.cache
+E:\workspace\ConversorHoras\obj\Debug\ConversorHoras.exe
+E:\workspace\ConversorHoras\obj\Debug\ConversorHoras.pdb
